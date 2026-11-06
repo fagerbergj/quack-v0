@@ -3,7 +3,7 @@ module github.com/fagerbergj/quack/extensions/sdk
 go 1.26.6
 
 require (
-	github.com/go-chi/chi/v5 v5.3.2
+	github.com/go-chi/chi/v5 v5.5.0
 	google.golang.org/adk/v2 v2.4.0
 	google.golang.org/genai v1.70.0
 	gopkg.in/yaml.v3 v3.0.1
